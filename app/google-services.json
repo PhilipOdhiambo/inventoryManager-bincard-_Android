@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "886093320220",
+    "firebase_url": "https://bincard-kpcc.firebaseio.com",
+    "project_id": "bincard-kpcc",
+    "storage_bucket": "bincard-kpcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886093320220:android:3f1913589bd752feb44fd9",
+        "android_client_info": {
+          "package_name": "com.example.androidfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886093320220-8adqtoo5jfk943j7u1p3jl3md3s27r3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukntx6mYDUKyRWako8zNQHdQ8AkQYshk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886093320220-8adqtoo5jfk943j7u1p3jl3md3s27r3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886093320220:android:da177b1e052634b0b44fd9",
+        "android_client_info": {
+          "package_name": "com.example.bincard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886093320220-8adqtoo5jfk943j7u1p3jl3md3s27r3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukntx6mYDUKyRWako8zNQHdQ8AkQYshk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886093320220-8adqtoo5jfk943j7u1p3jl3md3s27r3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
